@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sibaorganizasyon.com/sitemap.xml
